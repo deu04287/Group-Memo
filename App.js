@@ -19,7 +19,7 @@ import {
 const App = () => {
   return (
     <View style = {styles.defaultCss}>
-      <Text>hello</Text>
+      <Text>hello2</Text>
     </View>
   );
 };
