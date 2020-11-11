@@ -4,7 +4,7 @@ import {StyleSheet, View, Text} from 'react-native';
 const App = () => {
   return (
     <View style={styles.default}>
-      <Text>test</Text>
+      <Text>new branch</Text>
     </View>
   );
 };
